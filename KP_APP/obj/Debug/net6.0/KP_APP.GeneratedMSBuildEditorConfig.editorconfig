@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KP_APP
+build_property.RootNamespace = KP_APP
+build_property.ProjectDir = D:\Рабочий стол\НИУ МЭИ\ОБУЧЕНИЕ\КУРС 3\Проектный практикум\КП\KP_APP\KP_APP\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Рабочий стол\НИУ МЭИ\ОБУЧЕНИЕ\КУРС 3\Проектный практикум\КП\KP_APP\KP_APP
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/parameters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGFyYW1ldGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/parameters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGFyYW1ldGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/parameters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGFyYW1ldGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/parameters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGFyYW1ldGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/parameters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGFyYW1ldGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/positions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/positions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/positions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/positions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/positions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sootv_kategor_parameters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29vdHZfa2F0ZWdvcl9wYXJhbWV0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sootv_kategor_parameters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29vdHZfa2F0ZWdvcl9wYXJhbWV0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sootv_kategor_parameters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29vdHZfa2F0ZWdvcl9wYXJhbWV0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sootv_kategor_parameters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29vdHZfa2F0ZWdvcl9wYXJhbWV0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sootv_kategor_parameters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29vdHZfa2F0ZWdvcl9wYXJhbWV0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sost_departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29zdF9kZXBhcnRtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sost_departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29zdF9kZXBhcnRtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sost_departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29zdF9kZXBhcnRtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sost_departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29zdF9kZXBhcnRtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/sost_departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29zdF9kZXBhcnRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/status_zakazis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3RhdHVzX3pha2F6aXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/status_zakazis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3RhdHVzX3pha2F6aXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/status_zakazis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3RhdHVzX3pha2F6aXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/status_zakazis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3RhdHVzX3pha2F6aXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/status_zakazis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3RhdHVzX3pha2F6aXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/tov_kategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdG92X2thdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/tov_kategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdG92X2thdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/tov_kategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdG92X2thdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/tov_kategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdG92X2thdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/tov_kategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdG92X2thdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Рабочий стол/НИУ МЭИ/ОБУЧЕНИЕ/КУРС 3/Проектный практикум/КП/KP_APP/KP_APP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s3le9ftui2

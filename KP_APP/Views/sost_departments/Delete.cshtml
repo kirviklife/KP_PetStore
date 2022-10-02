@@ -1,0 +1,33 @@
+﻿@model KP_APP.Models.sost_departments
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>sost_departments</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.positions)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.positions.pos_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.departments)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.departments.dep_name)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="id_sost_dep" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

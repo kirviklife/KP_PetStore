@@ -1,0 +1,30 @@
+﻿@model KP_APP.Models.tov_kategories
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>tov_kategories</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.kategor_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.kategor_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tov_kategories1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tov_kategories1.kategor_name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id_kategor">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

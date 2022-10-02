@@ -1,0 +1,60 @@
+﻿@model KP_APP.Models.accounts
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>accounts</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.fam)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.fam)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.im)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.im)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.otch)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.otch)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.passwordhash)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.passwordhash)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.numphone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.numphone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.is_sotr)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.is_sotr)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.login">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
