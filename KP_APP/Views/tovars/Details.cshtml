@@ -1,0 +1,42 @@
+﻿@model KP_APP.Models.tovars
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>tovars</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tov_kategories)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tov_kategories.kategor_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tovar_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tovar_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tovar_opis)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tovar_opis)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cena)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cena)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.articule">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
