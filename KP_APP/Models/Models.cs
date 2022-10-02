@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace KP_APP.Models
 {
@@ -131,8 +132,11 @@ namespace KP_APP.Models
         public tov_kategories()
         {
             this.sootv_kategor_parameters = new HashSet<sootv_kategor_parameters>();
+            this.tovars = new HashSet<tovars>();
+
         }
         public virtual ICollection<sootv_kategor_parameters> sootv_kategor_parameters { get; set; }
+        public virtual ICollection<tovars> tovars { get; set; }
     }
 
     public class parameters
@@ -167,6 +171,37 @@ namespace KP_APP.Models
         [Display(Name = "Параметр", Description = "desc")]
         public int? id_param { get; set; }
         public parameters parameters { get; set; }
+    }
+
+    public class tovars
+    {
+        [Key]
+        //Первичный ключ
+        public string articule { get; set; }
+        [ForeignKey("tov_kategories")]
+        [Display(Name = "Категория", Description = "desc")]
+        public int? id_kategor { get; set; }
+        public tov_kategories tov_kategories { get; set; }
+        //Вывод ошибки
+        [Required(ErrorMessage = "Укажите наименование товара")]
+        //Ограничения ввода
+        [StringLength(150, MinimumLength = 1, ErrorMessage = "Длина строки должна содержать не более 150 и не менее 1 символов")]
+        //Отображение на странице
+        [Display(Name = "Наименование товара", Description = "desc")]
+        public string tovar_name { get; set; }
+        //Вывод ошибки
+        [Required(ErrorMessage = "Укажите описание товара")]
+        //Отображение на странице
+        [Display(Name = "Описание товара", Description = "desc")]
+        public string tovar_opis { get; set; }
+        [Precision(12, 3)]
+        //Вывод ошибки
+        [Required(ErrorMessage = "Укажите стоимость товара")]
+        //Отображение на странице
+        [Display(Name = "Стоимость товара", Description = "desc")]
+        public decimal cena { get; set; }
+
+
     }
 
 

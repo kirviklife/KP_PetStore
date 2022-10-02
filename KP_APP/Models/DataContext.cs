@@ -18,6 +18,8 @@ namespace KP_APP.Models
         public DbSet<tov_kategories> tov_kategories => Set<tov_kategories>();
         public DbSet<parameters> parameters => Set<parameters>();
         public DbSet<sootv_kategor_parameters> sootv_kategor_parameters => Set<sootv_kategor_parameters>();
+        public DbSet<tovars> tovars => Set<tovars>();
+
 
 
     }
